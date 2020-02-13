@@ -129,8 +129,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         }
 //        name_txt.setText("letsgochamp");
 //        pass_txt.setText("Ou5Z9qcN8z");
-//        name_txt.setText("13591043");
-//        pass_txt.setText("38854714");
+//        name_txt.setText("31614103");
+//        pass_txt.setText("99647182");
         TextView mac_txt = findViewById(R.id.login_mac_address);
         mac_txt.setText(MyApp.mac_address);
         TextView version_txt = findViewById(R.id.app_version_code);

@@ -134,7 +134,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
         if (MyApp.is_video_played) {
             videoView.setVisibility(View.GONE);
-            main_lay.setVisibility(View.GONE);
+//            main_lay.setVisibility(View.GONE);
             if (Build.VERSION.SDK_INT > Build.VERSION_CODES.LOLLIPOP_MR1) {
                 CheckSDK23Permission();
             }else if (num_server==1){
